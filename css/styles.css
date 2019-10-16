@@ -1,0 +1,63 @@
+
+@charset "UTF-8";
+#topo {
+    padding: 0 auto;
+    margin:0;
+}
+
+
+/* MENU */  
+
+      .navbar {
+          overflow: hidden;
+          background-color: #333;
+          position: fixed; 
+          top: 0; 
+          width: 100%; 
+        }
+        
+        .navbar a {
+          font-family: 'bebas neue';
+          float: left;
+          margin-left;: 50px;
+          display: block;
+          color: #f2f2f2;
+          text-align: center;
+          padding: 20px 20px;
+          text-decoration: none;
+
+        }
+        
+      
+        .navbar a:hover {
+          background: #ddd;
+          color: black;
+          
+        }
+        
+      
+        .main {
+          margin-top: 30px; 
+        } 
+
+/* DIV DE POSTAGENS */
+
+        #conteudo1 {
+          padding: 10px;
+          width:600px;
+          height:700px;
+          align: center;
+          background: #bbbbbb;
+          }
+
+        .postagem {
+            text-align: center;
+            padding: 10px;
+        }
+
+
+
+
+
+
+
